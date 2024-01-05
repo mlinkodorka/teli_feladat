@@ -1,0 +1,12 @@
+.fejlec {
+background-image: url(../../GRID_TABLAZAT/kepek/fejlec.jpg);
+
+}
+
+.fejlec h1 {
+padding-top: 5rem;
+padding-bottom: 2rem;
+color: #fff;
+text-shadow: 1px 1px 2px black;
+text-align: center;
+}
