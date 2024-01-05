@@ -1,0 +1,24 @@
+@import url(Components/buttons.css);
+@import url(variables.css);
+@import url(Components/fejlec.css);
+@import url(Components/footer.css);
+@import url(Components/layout.css);
+@import url(Components/images.css);
+
+body {
+background-image: url(../GRID_TABLAZAT/kepek/hatter.jpg);
+font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+max-width: 100%;
+background-color: #fff;
+}
+
+article {
+    padding-inline: 32px;
+    border: black;
+    border-width: 0.25px;
+    border-style: solid;
+}
+
